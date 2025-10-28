@@ -1,12 +1,9 @@
-## DavidJavascripting
+## Javascripting
 
-Serie de ejercicios de Vanilla Javascript (Javascripting) como parte del programa de Workshops Core de NodeSchool
+A series of Vanilla Javascript (Javascripting) exercises as part of the NodeSchool Core Workshops program
 
-## Créditos
-[David E Lares S](https://davidlares.com)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## NodeSchool Workshop
-- https://github.com/workshopper/javascripting
-
-## Licencia
+## License
 [MIT](https://opensource.org/licenses/MIT)
